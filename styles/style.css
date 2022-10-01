@@ -1,8 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Courier+Prime:ital@1&family=Gugi&family=Luckiest+Guy&family=Martel+Sans&family=Suranna&display=swap');
+
 body {
-    background-color: #16181A;
-  }
+  background-color: #16181A;
+}
   
+.vietnam-pro { font-family: 'Be Vietnam Pro', sans-serif; }
+.courier { font-family: 'Courier Prime', monospace; }
+.gugi { font-family: 'Gugi', cursive; }
+.luckiest { font-family: 'Luckiest Guy', cursive; }
+.martel { font-family: 'Martel Sans', sans-serif; }
+.suranna { font-family: 'Suranna', serif; }
+
 .logo {
     height: 90px;
     height: 10%;
   }
+
+.title_principal{
+  color:white;
+  text-align: center;
+  font-size: 3em;
+  font-family:manrope;
+}
+
+.title{
+  color:aliceblue
+}
+
+.text{
+  color:white
+}
+
+
