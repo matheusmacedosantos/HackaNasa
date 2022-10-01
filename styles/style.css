@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Courier+Prime:ital@1&family=Gugi&family=Luckiest+Guy&family=Martel+Sans&family=Suranna&display=swap');
+@import url('https://fonts.google.com/specimen/Manrope');
 
-body {
+.body {
   background-color: #16181A;
 }
   
@@ -20,15 +20,26 @@ body {
   color:white;
   text-align: center;
   font-size: 3em;
-  font-family:manrope;
-}
+ }
+
 
 .title{
-  color:aliceblue
+  color:aliceblue;
+  text-align: center;
 }
 
 .text{
-  color:white
+  color:white;
+  text-align: center;
+  border-left: 30%;
+}
+
+.body{
+  border-left: 80px solid #16181A;
+  border-right: 80px solid #16181A;
 }
 
 
+settings_down{
+  border-bottom: 30em;
+}
